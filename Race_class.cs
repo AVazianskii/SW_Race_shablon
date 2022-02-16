@@ -8,6 +8,7 @@ namespace Races_libs
 {
     public class Race_class
     {
+
         #region // переменные класса
         private int Error_code;     /* код ошибки в дейстиях персонажа                  */
         private int min_child_age,  /* минимальный  детский      возраст выбранной расы */
